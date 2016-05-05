@@ -1,0 +1,99 @@
+start!
+Search Terms: 
+['inurl:Dell', 'E1916HV', '18.5-inch', 'LED', 'Monitor', '(Black)']
+1. http://www.dell.com/si/business/p/dell-e1914h/pd
+			num of found terms: 3
+			link score: 100000.000
+			page score: 1.385
+			crawl time: 2016-05-06 02:30:43.895233
+			size(Byte): 44180
+			return code: 200
+
+
+2. https://www.theitdepot.com/details-Dell%2BE1916HV%2B18.5inch%2BLED%2BMonitor_C7P25426.html
+			num of found terms: 4
+			link score: 100000.000
+			page score: 1.667
+			crawl time: 2016-05-06 02:30:44.061612
+			size(Byte): 125451
+			return code: 200
+
+
+3. http://www.snapdeal.com/product/dell-e1916h-185-led-backlight/639554442391
+			num of found terms: 4
+			link score: 100000.000
+			page score: 2.439
+			crawl time: 2016-05-06 02:30:44.706833
+			size(Byte): 285439
+			return code: 200
+
+
+4. http://www.ebay.in/itm/Dell-E1916HV-18-5-inch-LED-Backlit-LCD-Monitor-with-3year-on-site-warranty-/231848285441
+			num of found terms: 4
+			link score: 100000.000
+			page score: 3.022
+			crawl time: 2016-05-06 02:30:44.670742
+			size(Byte): 107484
+			return code: 200
+
+
+5. http://www.junglee.com/Dell-E1914H-18-5-Inch-HD-Monitor/j/dp/B00ECS9RJ6
+			num of found terms: 3
+			link score: 100000.000
+			page score: 2.328
+			crawl time: 2016-05-06 02:30:45.171183
+			size(Byte): 70442
+			return code: 200
+
+
+6. http://www.amazon.in/Dell-E1916HV-18-5-inch-Monitor-Black/dp/B015OAH4MC
+			num of found terms: 5
+			link score: 100000.000
+			page score: 2.533
+			crawl time: 2016-05-06 02:30:44.398971
+			size(Byte): 378753
+			return code: 200
+
+
+7. http://www.amazon.in/Dell-E1914H-18-5-Inch-HD-Monitor/dp/B00ECS9RJ6
+			num of found terms: 5
+			link score: 100000.000
+			page score: 2.010
+			crawl time: 2016-05-06 02:30:44.500191
+			size(Byte): 384288
+			return code: 200
+
+
+8. http://www.amazon.com/Dell-E1914H-19-Inch-LED-Lit-Monitor/dp/B00ECS9RJ6
+			num of found terms: 4
+			link score: 100000.000
+			page score: 2.946
+			crawl time: 2016-05-06 02:30:45.319030
+			size(Byte): 503216
+			return code: 200
+
+
+9. http://www.amazon.com/Dell-E1916HV-Screen-LED-Lit-Monitor/dp/B012AQINMI
+			num of found terms: 4
+			link score: 100000.000
+			page score: 3.698
+			crawl time: 2016-05-06 02:30:44.813181
+			size(Byte): 576296
+			return code: 200
+
+
+10. http://www.amazon.in/product-reviews/B015OAH4MC
+			num of found terms: 5
+			link score: 121.579
+			page score: 6.399
+			crawl time: 2016-05-06 02:30:51.818799
+			size(Byte): 264603
+			return code: 200
+
+
+Statistics:
+			Number of Files: 10
+			Total Size(MiB): 2.61
+			Total Time: 0:00:14.373596
+			Number of 404: 0
+
